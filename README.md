@@ -1,3 +1,2 @@
-# Style_Shortcut_keys
-this is simply my MS word skills
-styling Page with different effects 
+# Ctrl Plus Next
+This is web page of shortcut keys of MS Office.
